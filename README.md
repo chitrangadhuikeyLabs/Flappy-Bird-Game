@@ -34,14 +34,6 @@ The graphics use simple shapes, so no external image assets are required.
 - Pygame graphics and events
 - Game loops and physics
 
-## Future improvements
-
-- Add sound effects
-- Save the high score
-- Add sprite animations
-- Increase difficulty with the score
-- Add a pause menu
-
 ## Author
 
 chitrangadhuikeyLabs
