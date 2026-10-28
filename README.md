@@ -19,20 +19,6 @@ The graphics use simple shapes, so no external image assets are required.
 - Python 3.10 or newer
 - Pygame
 
-## Installation
-
-Install the dependency:
-
-```bash
-python -m pip install -r requirements.txt
-```
-
-## Run the game
-
-```bash
-python main.py
-```
-
 ## Controls
 
 - SPACE or left-click: start, flap, or retry
@@ -47,7 +33,6 @@ python main.py
 - Loops and conditional statements
 - Pygame graphics and events
 - Game loops and physics
-- Collision detection and game states
 
 ## Future improvements
 
